@@ -1,0 +1,2 @@
+﻿id;tema;subtema;pregunta;opcion_a;opcion_b;opcion_c;opcion_d;correcta;explicacion;dificultad;fuente;apartado;pagina;imagen;imagen_alt
+DEMO-0001;Redes de saneamiento;Aliviaderos;¿Cuál es la función principal de un aliviadero?;Aumentar la presión de la red;Derivar el exceso de caudal;Medir la temperatura;Eliminar todos los sólidos;B;Un aliviadero deriva caudal cuando se cumplen las condiciones de funcionamiento.;Media;Demostración · no verificada con el temario oficial;;;;
